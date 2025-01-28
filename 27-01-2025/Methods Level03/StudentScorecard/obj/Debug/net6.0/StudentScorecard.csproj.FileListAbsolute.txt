@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\StudentScorecard\bin\Debug\net6.0\StudentScorecard.exe
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\StudentScorecard\bin\Debug\net6.0\StudentScorecard.deps.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\StudentScorecard\bin\Debug\net6.0\StudentScorecard.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\StudentScorecard\bin\Debug\net6.0\StudentScorecard.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\StudentScorecard\bin\Debug\net6.0\StudentScorecard.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\StudentScorecard\obj\Debug\net6.0\StudentScorecard.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\StudentScorecard\obj\Debug\net6.0\StudentScorecard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\StudentScorecard\obj\Debug\net6.0\StudentScorecard.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\StudentScorecard\obj\Debug\net6.0\StudentScorecard.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\StudentScorecard\obj\Debug\net6.0\StudentScorecard.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\StudentScorecard\obj\Debug\net6.0\StudentScorecard.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\StudentScorecard\obj\Debug\net6.0\refint\StudentScorecard.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\StudentScorecard\obj\Debug\net6.0\StudentScorecard.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\StudentScorecard\obj\Debug\net6.0\StudentScorecard.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\StudentScorecard\obj\Debug\net6.0\ref\StudentScorecard.dll

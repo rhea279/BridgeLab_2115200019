@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Numbers\obj\Debug\net6.0\Numbers.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Numbers\obj\Debug\net6.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Numbers\obj\Debug\net6.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Numbers\bin\Debug\net6.0\Numbers.exe
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Numbers\bin\Debug\net6.0\Numbers.deps.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Numbers\bin\Debug\net6.0\Numbers.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Numbers\bin\Debug\net6.0\Numbers.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Numbers\bin\Debug\net6.0\Numbers.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Numbers\obj\Debug\net6.0\Numbers.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Numbers\obj\Debug\net6.0\refint\Numbers.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Numbers\obj\Debug\net6.0\Numbers.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Numbers\obj\Debug\net6.0\Numbers.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Numbers\obj\Debug\net6.0\ref\Numbers.dll

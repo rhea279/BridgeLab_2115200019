@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\StudentVoteChecker\obj\Debug\net6.0\StudentVoteChecker.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\StudentVoteChecker\obj\Debug\net6.0\StudentVoteChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\StudentVoteChecker\obj\Debug\net6.0\StudentVoteChecker.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\StudentVoteChecker\obj\Debug\net6.0\StudentVoteChecker.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\StudentVoteChecker\obj\Debug\net6.0\StudentVoteChecker.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\StudentVoteChecker\bin\Debug\net6.0\StudentVoteChecker.exe
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\StudentVoteChecker\bin\Debug\net6.0\StudentVoteChecker.deps.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\StudentVoteChecker\bin\Debug\net6.0\StudentVoteChecker.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\StudentVoteChecker\bin\Debug\net6.0\StudentVoteChecker.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\StudentVoteChecker\bin\Debug\net6.0\StudentVoteChecker.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\StudentVoteChecker\obj\Debug\net6.0\StudentVoteChecker.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\StudentVoteChecker\obj\Debug\net6.0\refint\StudentVoteChecker.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\StudentVoteChecker\obj\Debug\net6.0\StudentVoteChecker.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\StudentVoteChecker\obj\Debug\net6.0\StudentVoteChecker.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\StudentVoteChecker\obj\Debug\net6.0\ref\StudentVoteChecker.dll

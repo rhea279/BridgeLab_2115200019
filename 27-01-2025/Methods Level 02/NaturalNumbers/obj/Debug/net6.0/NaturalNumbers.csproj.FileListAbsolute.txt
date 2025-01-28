@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\NaturalNumbers\obj\Debug\net6.0\NaturalNumbers.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\NaturalNumbers\obj\Debug\net6.0\NaturalNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\NaturalNumbers\obj\Debug\net6.0\NaturalNumbers.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\NaturalNumbers\obj\Debug\net6.0\NaturalNumbers.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\NaturalNumbers\obj\Debug\net6.0\NaturalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\NaturalNumbers\bin\Debug\net6.0\NaturalNumbers.exe
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\NaturalNumbers\bin\Debug\net6.0\NaturalNumbers.deps.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\NaturalNumbers\bin\Debug\net6.0\NaturalNumbers.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\NaturalNumbers\bin\Debug\net6.0\NaturalNumbers.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\NaturalNumbers\bin\Debug\net6.0\NaturalNumbers.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\NaturalNumbers\obj\Debug\net6.0\NaturalNumbers.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\NaturalNumbers\obj\Debug\net6.0\refint\NaturalNumbers.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\NaturalNumbers\obj\Debug\net6.0\NaturalNumbers.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\NaturalNumbers\obj\Debug\net6.0\NaturalNumbers.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\NaturalNumbers\obj\Debug\net6.0\ref\NaturalNumbers.dll

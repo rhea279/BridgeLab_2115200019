@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Quadratic\bin\Debug\net6.0\Quadratic.exe
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Quadratic\bin\Debug\net6.0\Quadratic.deps.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Quadratic\bin\Debug\net6.0\Quadratic.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Quadratic\bin\Debug\net6.0\Quadratic.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Quadratic\bin\Debug\net6.0\Quadratic.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Quadratic\obj\Debug\net6.0\Quadratic.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Quadratic\obj\Debug\net6.0\Quadratic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Quadratic\obj\Debug\net6.0\Quadratic.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Quadratic\obj\Debug\net6.0\Quadratic.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Quadratic\obj\Debug\net6.0\Quadratic.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Quadratic\obj\Debug\net6.0\Quadratic.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Quadratic\obj\Debug\net6.0\refint\Quadratic.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Quadratic\obj\Debug\net6.0\Quadratic.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Quadratic\obj\Debug\net6.0\Quadratic.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\Quadratic\obj\Debug\net6.0\ref\Quadratic.dll

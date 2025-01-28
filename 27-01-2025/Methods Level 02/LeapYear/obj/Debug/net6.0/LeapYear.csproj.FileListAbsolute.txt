@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\LeapYear\obj\Debug\net6.0\LeapYear.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\LeapYear\obj\Debug\net6.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\LeapYear\obj\Debug\net6.0\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\LeapYear\bin\Debug\net6.0\LeapYear.exe
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\LeapYear\bin\Debug\net6.0\LeapYear.deps.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\LeapYear\bin\Debug\net6.0\LeapYear.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\LeapYear\bin\Debug\net6.0\LeapYear.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\LeapYear\bin\Debug\net6.0\LeapYear.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\LeapYear\obj\Debug\net6.0\LeapYear.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\LeapYear\obj\Debug\net6.0\refint\LeapYear.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\LeapYear\obj\Debug\net6.0\LeapYear.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\LeapYear\obj\Debug\net6.0\LeapYear.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\LeapYear\obj\Debug\net6.0\ref\LeapYear.dll

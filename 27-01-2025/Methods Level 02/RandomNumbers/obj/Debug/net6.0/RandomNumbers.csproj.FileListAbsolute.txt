@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\RandomNumbers\bin\Debug\net6.0\RandomNumbers.exe
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\RandomNumbers\bin\Debug\net6.0\RandomNumbers.deps.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\RandomNumbers\bin\Debug\net6.0\RandomNumbers.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\RandomNumbers\bin\Debug\net6.0\RandomNumbers.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\RandomNumbers\bin\Debug\net6.0\RandomNumbers.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\RandomNumbers\obj\Debug\net6.0\RandomNumbers.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\RandomNumbers\obj\Debug\net6.0\RandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\RandomNumbers\obj\Debug\net6.0\RandomNumbers.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\RandomNumbers\obj\Debug\net6.0\RandomNumbers.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\RandomNumbers\obj\Debug\net6.0\RandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\RandomNumbers\obj\Debug\net6.0\RandomNumbers.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\RandomNumbers\obj\Debug\net6.0\refint\RandomNumbers.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\RandomNumbers\obj\Debug\net6.0\RandomNumbers.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\RandomNumbers\obj\Debug\net6.0\RandomNumbers.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\RandomNumbers\obj\Debug\net6.0\ref\RandomNumbers.dll

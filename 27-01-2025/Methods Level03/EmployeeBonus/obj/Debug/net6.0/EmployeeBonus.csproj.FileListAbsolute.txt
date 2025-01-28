@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\EmployeeBonus\bin\Debug\net6.0\EmployeeBonus.exe
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\EmployeeBonus\bin\Debug\net6.0\EmployeeBonus.deps.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\EmployeeBonus\bin\Debug\net6.0\EmployeeBonus.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\EmployeeBonus\bin\Debug\net6.0\EmployeeBonus.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\EmployeeBonus\bin\Debug\net6.0\EmployeeBonus.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\EmployeeBonus\obj\Debug\net6.0\EmployeeBonus.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\EmployeeBonus\obj\Debug\net6.0\EmployeeBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\EmployeeBonus\obj\Debug\net6.0\EmployeeBonus.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\EmployeeBonus\obj\Debug\net6.0\EmployeeBonus.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\EmployeeBonus\obj\Debug\net6.0\EmployeeBonus.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\EmployeeBonus\obj\Debug\net6.0\EmployeeBonus.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\EmployeeBonus\obj\Debug\net6.0\refint\EmployeeBonus.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\EmployeeBonus\obj\Debug\net6.0\EmployeeBonus.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\EmployeeBonus\obj\Debug\net6.0\EmployeeBonus.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\EmployeeBonus\obj\Debug\net6.0\ref\EmployeeBonus.dll

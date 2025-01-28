@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Chocolates\bin\Debug\net6.0\Chocolates.exe
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Chocolates\bin\Debug\net6.0\Chocolates.deps.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Chocolates\bin\Debug\net6.0\Chocolates.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Chocolates\bin\Debug\net6.0\Chocolates.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Chocolates\bin\Debug\net6.0\Chocolates.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Chocolates\obj\Debug\net6.0\Chocolates.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Chocolates\obj\Debug\net6.0\Chocolates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Chocolates\obj\Debug\net6.0\Chocolates.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Chocolates\obj\Debug\net6.0\Chocolates.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Chocolates\obj\Debug\net6.0\Chocolates.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Chocolates\obj\Debug\net6.0\Chocolates.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Chocolates\obj\Debug\net6.0\refint\Chocolates.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Chocolates\obj\Debug\net6.0\Chocolates.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Chocolates\obj\Debug\net6.0\Chocolates.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Chocolates\obj\Debug\net6.0\ref\Chocolates.dll

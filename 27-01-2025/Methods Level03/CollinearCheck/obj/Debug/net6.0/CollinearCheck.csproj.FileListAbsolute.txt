@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\CollinearCheck\bin\Debug\net6.0\CollinearCheck.exe
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\CollinearCheck\bin\Debug\net6.0\CollinearCheck.deps.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\CollinearCheck\bin\Debug\net6.0\CollinearCheck.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\CollinearCheck\bin\Debug\net6.0\CollinearCheck.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\CollinearCheck\bin\Debug\net6.0\CollinearCheck.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\CollinearCheck\obj\Debug\net6.0\CollinearCheck.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\CollinearCheck\obj\Debug\net6.0\CollinearCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\CollinearCheck\obj\Debug\net6.0\CollinearCheck.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\CollinearCheck\obj\Debug\net6.0\CollinearCheck.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\CollinearCheck\obj\Debug\net6.0\CollinearCheck.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\CollinearCheck\obj\Debug\net6.0\CollinearCheck.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\CollinearCheck\obj\Debug\net6.0\refint\CollinearCheck.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\CollinearCheck\obj\Debug\net6.0\CollinearCheck.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\CollinearCheck\obj\Debug\net6.0\CollinearCheck.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\CollinearCheck\obj\Debug\net6.0\ref\CollinearCheck.dll

@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\QuotientRemainder\bin\Debug\net6.0\QuotientRemainder.exe
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\QuotientRemainder\bin\Debug\net6.0\QuotientRemainder.deps.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\QuotientRemainder\bin\Debug\net6.0\QuotientRemainder.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\QuotientRemainder\bin\Debug\net6.0\QuotientRemainder.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\QuotientRemainder\bin\Debug\net6.0\QuotientRemainder.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\QuotientRemainder\obj\Debug\net6.0\QuotientRemainder.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\QuotientRemainder\obj\Debug\net6.0\QuotientRemainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\QuotientRemainder\obj\Debug\net6.0\QuotientRemainder.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\QuotientRemainder\obj\Debug\net6.0\QuotientRemainder.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\QuotientRemainder\obj\Debug\net6.0\QuotientRemainder.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\QuotientRemainder\obj\Debug\net6.0\QuotientRemainder.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\QuotientRemainder\obj\Debug\net6.0\refint\QuotientRemainder.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\QuotientRemainder\obj\Debug\net6.0\QuotientRemainder.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\QuotientRemainder\obj\Debug\net6.0\QuotientRemainder.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\QuotientRemainder\obj\Debug\net6.0\ref\QuotientRemainder.dll

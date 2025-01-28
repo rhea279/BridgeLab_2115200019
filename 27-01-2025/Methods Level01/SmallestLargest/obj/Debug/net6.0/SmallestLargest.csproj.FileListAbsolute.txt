@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\SmallestLargest\obj\Debug\net6.0\SmallestLargest.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\SmallestLargest\obj\Debug\net6.0\SmallestLargest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\SmallestLargest\obj\Debug\net6.0\SmallestLargest.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\SmallestLargest\obj\Debug\net6.0\SmallestLargest.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\SmallestLargest\obj\Debug\net6.0\SmallestLargest.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\SmallestLargest\bin\Debug\net6.0\SmallestLargest.exe
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\SmallestLargest\bin\Debug\net6.0\SmallestLargest.deps.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\SmallestLargest\bin\Debug\net6.0\SmallestLargest.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\SmallestLargest\bin\Debug\net6.0\SmallestLargest.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\SmallestLargest\bin\Debug\net6.0\SmallestLargest.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\SmallestLargest\obj\Debug\net6.0\SmallestLargest.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\SmallestLargest\obj\Debug\net6.0\refint\SmallestLargest.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\SmallestLargest\obj\Debug\net6.0\SmallestLargest.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\SmallestLargest\obj\Debug\net6.0\SmallestLargest.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\SmallestLargest\obj\Debug\net6.0\ref\SmallestLargest.dll

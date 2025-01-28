@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\BMI\obj\Debug\net6.0\BMI.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\BMI\obj\Debug\net6.0\BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\BMI\obj\Debug\net6.0\BMI.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\BMI\obj\Debug\net6.0\BMI.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\BMI\obj\Debug\net6.0\BMI.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\BMI\bin\Debug\net6.0\BMI.exe
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\BMI\bin\Debug\net6.0\BMI.deps.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\BMI\bin\Debug\net6.0\BMI.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\BMI\bin\Debug\net6.0\BMI.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\BMI\bin\Debug\net6.0\BMI.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\BMI\obj\Debug\net6.0\BMI.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\BMI\obj\Debug\net6.0\refint\BMI.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\BMI\obj\Debug\net6.0\BMI.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\BMI\obj\Debug\net6.0\BMI.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level 02\BMI\obj\Debug\net6.0\ref\BMI.dll

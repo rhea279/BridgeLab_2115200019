@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\MaxHandshakes\bin\Debug\net6.0\MaxHandshakes.exe
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\MaxHandshakes\bin\Debug\net6.0\MaxHandshakes.deps.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\MaxHandshakes\bin\Debug\net6.0\MaxHandshakes.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\MaxHandshakes\bin\Debug\net6.0\MaxHandshakes.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\MaxHandshakes\bin\Debug\net6.0\MaxHandshakes.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\MaxHandshakes\obj\Debug\net6.0\MaxHandshakes.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\MaxHandshakes\obj\Debug\net6.0\MaxHandshakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\MaxHandshakes\obj\Debug\net6.0\MaxHandshakes.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\MaxHandshakes\obj\Debug\net6.0\MaxHandshakes.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\MaxHandshakes\obj\Debug\net6.0\MaxHandshakes.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\MaxHandshakes\obj\Debug\net6.0\MaxHandshakes.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\MaxHandshakes\obj\Debug\net6.0\refint\MaxHandshakes.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\MaxHandshakes\obj\Debug\net6.0\MaxHandshakes.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\MaxHandshakes\obj\Debug\net6.0\MaxHandshakes.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\MaxHandshakes\obj\Debug\net6.0\ref\MaxHandshakes.dll

@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\NumberChecker4\bin\Debug\net6.0\NumberChecker4.exe
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\NumberChecker4\bin\Debug\net6.0\NumberChecker4.deps.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\NumberChecker4\bin\Debug\net6.0\NumberChecker4.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\NumberChecker4\bin\Debug\net6.0\NumberChecker4.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\NumberChecker4\bin\Debug\net6.0\NumberChecker4.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\NumberChecker4\obj\Debug\net6.0\NumberChecker4.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\NumberChecker4\obj\Debug\net6.0\NumberChecker4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\NumberChecker4\obj\Debug\net6.0\NumberChecker4.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\NumberChecker4\obj\Debug\net6.0\NumberChecker4.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\NumberChecker4\obj\Debug\net6.0\NumberChecker4.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\NumberChecker4\obj\Debug\net6.0\NumberChecker4.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\NumberChecker4\obj\Debug\net6.0\refint\NumberChecker4.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\NumberChecker4\obj\Debug\net6.0\NumberChecker4.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\NumberChecker4\obj\Debug\net6.0\NumberChecker4.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level03\NumberChecker4\obj\Debug\net6.0\ref\NumberChecker4.dll

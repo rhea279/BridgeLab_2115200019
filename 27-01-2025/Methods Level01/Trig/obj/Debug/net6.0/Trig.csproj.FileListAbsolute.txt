@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Trig\bin\Debug\net6.0\Trig.exe
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Trig\bin\Debug\net6.0\Trig.deps.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Trig\bin\Debug\net6.0\Trig.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Trig\bin\Debug\net6.0\Trig.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Trig\bin\Debug\net6.0\Trig.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Trig\obj\Debug\net6.0\Trig.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Trig\obj\Debug\net6.0\Trig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Trig\obj\Debug\net6.0\Trig.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Trig\obj\Debug\net6.0\Trig.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Trig\obj\Debug\net6.0\Trig.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Trig\obj\Debug\net6.0\Trig.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Trig\obj\Debug\net6.0\refint\Trig.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Trig\obj\Debug\net6.0\Trig.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Trig\obj\Debug\net6.0\Trig.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\Trig\obj\Debug\net6.0\ref\Trig.dll

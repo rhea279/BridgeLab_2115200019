@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\NumOfRounds\obj\Debug\net6.0\NumOfRounds.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\NumOfRounds\obj\Debug\net6.0\NumOfRounds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\NumOfRounds\obj\Debug\net6.0\NumOfRounds.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\NumOfRounds\obj\Debug\net6.0\NumOfRounds.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\NumOfRounds\obj\Debug\net6.0\NumOfRounds.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\NumOfRounds\bin\Debug\net6.0\NumOfRounds.exe
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\NumOfRounds\bin\Debug\net6.0\NumOfRounds.deps.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\NumOfRounds\bin\Debug\net6.0\NumOfRounds.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\NumOfRounds\bin\Debug\net6.0\NumOfRounds.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\NumOfRounds\bin\Debug\net6.0\NumOfRounds.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\NumOfRounds\obj\Debug\net6.0\NumOfRounds.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\NumOfRounds\obj\Debug\net6.0\refint\NumOfRounds.dll
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\NumOfRounds\obj\Debug\net6.0\NumOfRounds.pdb
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\NumOfRounds\obj\Debug\net6.0\NumOfRounds.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\27-01-2025\Methods Level01\NumOfRounds\obj\Debug\net6.0\ref\NumOfRounds.dll
