@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Frequent\bin\Debug\net6.0\Frequent.exe
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Frequent\bin\Debug\net6.0\Frequent.deps.json
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Frequent\bin\Debug\net6.0\Frequent.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Frequent\bin\Debug\net6.0\Frequent.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Frequent\bin\Debug\net6.0\Frequent.pdb
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Frequent\obj\Debug\net6.0\Frequent.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Frequent\obj\Debug\net6.0\Frequent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Frequent\obj\Debug\net6.0\Frequent.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Frequent\obj\Debug\net6.0\Frequent.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Frequent\obj\Debug\net6.0\Frequent.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Frequent\obj\Debug\net6.0\Frequent.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Frequent\obj\Debug\net6.0\refint\Frequent.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Frequent\obj\Debug\net6.0\Frequent.pdb
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Frequent\obj\Debug\net6.0\Frequent.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Frequent\obj\Debug\net6.0\ref\Frequent.dll

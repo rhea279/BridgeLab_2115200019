@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Replacee\bin\Debug\net6.0\Replacee.exe
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Replacee\bin\Debug\net6.0\Replacee.deps.json
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Replacee\bin\Debug\net6.0\Replacee.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Replacee\bin\Debug\net6.0\Replacee.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Replacee\bin\Debug\net6.0\Replacee.pdb
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Replacee\obj\Debug\net6.0\Replacee.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Replacee\obj\Debug\net6.0\Replacee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Replacee\obj\Debug\net6.0\Replacee.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Replacee\obj\Debug\net6.0\Replacee.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Replacee\obj\Debug\net6.0\Replacee.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Replacee\obj\Debug\net6.0\Replacee.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Replacee\obj\Debug\net6.0\refint\Replacee.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Replacee\obj\Debug\net6.0\Replacee.pdb
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Replacee\obj\Debug\net6.0\Replacee.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\Replacee\obj\Debug\net6.0\ref\Replacee.dll

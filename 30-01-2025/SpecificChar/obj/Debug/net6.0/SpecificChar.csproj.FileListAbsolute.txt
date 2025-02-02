@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\29-01-2025\SpecificChar\bin\Debug\net6.0\SpecificChar.exe
+C:\Users\asus\OneDrive\Desktop\29-01-2025\SpecificChar\bin\Debug\net6.0\SpecificChar.deps.json
+C:\Users\asus\OneDrive\Desktop\29-01-2025\SpecificChar\bin\Debug\net6.0\SpecificChar.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\29-01-2025\SpecificChar\bin\Debug\net6.0\SpecificChar.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\SpecificChar\bin\Debug\net6.0\SpecificChar.pdb
+C:\Users\asus\OneDrive\Desktop\29-01-2025\SpecificChar\obj\Debug\net6.0\SpecificChar.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\SpecificChar\obj\Debug\net6.0\SpecificChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\29-01-2025\SpecificChar\obj\Debug\net6.0\SpecificChar.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\SpecificChar\obj\Debug\net6.0\SpecificChar.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\29-01-2025\SpecificChar\obj\Debug\net6.0\SpecificChar.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\SpecificChar\obj\Debug\net6.0\SpecificChar.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\SpecificChar\obj\Debug\net6.0\refint\SpecificChar.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\SpecificChar\obj\Debug\net6.0\SpecificChar.pdb
+C:\Users\asus\OneDrive\Desktop\29-01-2025\SpecificChar\obj\Debug\net6.0\SpecificChar.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\SpecificChar\obj\Debug\net6.0\ref\SpecificChar.dll

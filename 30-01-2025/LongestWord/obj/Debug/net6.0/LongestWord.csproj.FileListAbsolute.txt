@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\29-01-2025\LongestWord\bin\Debug\net6.0\LongestWord.exe
+C:\Users\asus\OneDrive\Desktop\29-01-2025\LongestWord\bin\Debug\net6.0\LongestWord.deps.json
+C:\Users\asus\OneDrive\Desktop\29-01-2025\LongestWord\bin\Debug\net6.0\LongestWord.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\29-01-2025\LongestWord\bin\Debug\net6.0\LongestWord.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\LongestWord\bin\Debug\net6.0\LongestWord.pdb
+C:\Users\asus\OneDrive\Desktop\29-01-2025\LongestWord\obj\Debug\net6.0\LongestWord.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\LongestWord\obj\Debug\net6.0\LongestWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\29-01-2025\LongestWord\obj\Debug\net6.0\LongestWord.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\LongestWord\obj\Debug\net6.0\LongestWord.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\29-01-2025\LongestWord\obj\Debug\net6.0\LongestWord.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\LongestWord\obj\Debug\net6.0\LongestWord.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\LongestWord\obj\Debug\net6.0\refint\LongestWord.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\LongestWord\obj\Debug\net6.0\LongestWord.pdb
+C:\Users\asus\OneDrive\Desktop\29-01-2025\LongestWord\obj\Debug\net6.0\LongestWord.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\LongestWord\obj\Debug\net6.0\ref\LongestWord.dll

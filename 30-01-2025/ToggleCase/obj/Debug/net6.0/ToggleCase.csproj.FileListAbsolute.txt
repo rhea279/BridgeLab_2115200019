@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\29-01-2025\ToggleCase\bin\Debug\net6.0\ToggleCase.exe
+C:\Users\asus\OneDrive\Desktop\29-01-2025\ToggleCase\bin\Debug\net6.0\ToggleCase.deps.json
+C:\Users\asus\OneDrive\Desktop\29-01-2025\ToggleCase\bin\Debug\net6.0\ToggleCase.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\29-01-2025\ToggleCase\bin\Debug\net6.0\ToggleCase.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\ToggleCase\bin\Debug\net6.0\ToggleCase.pdb
+C:\Users\asus\OneDrive\Desktop\29-01-2025\ToggleCase\obj\Debug\net6.0\ToggleCase.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\ToggleCase\obj\Debug\net6.0\ToggleCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\29-01-2025\ToggleCase\obj\Debug\net6.0\ToggleCase.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\ToggleCase\obj\Debug\net6.0\ToggleCase.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\29-01-2025\ToggleCase\obj\Debug\net6.0\ToggleCase.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\ToggleCase\obj\Debug\net6.0\ToggleCase.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\ToggleCase\obj\Debug\net6.0\refint\ToggleCase.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\ToggleCase\obj\Debug\net6.0\ToggleCase.pdb
+C:\Users\asus\OneDrive\Desktop\29-01-2025\ToggleCase\obj\Debug\net6.0\ToggleCase.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\ToggleCase\obj\Debug\net6.0\ref\ToggleCase.dll
