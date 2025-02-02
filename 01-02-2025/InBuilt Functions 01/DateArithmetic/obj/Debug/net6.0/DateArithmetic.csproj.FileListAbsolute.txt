@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateArithmetic\bin\Debug\net6.0\DateArithmetic.exe
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateArithmetic\bin\Debug\net6.0\DateArithmetic.deps.json
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateArithmetic\bin\Debug\net6.0\DateArithmetic.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateArithmetic\bin\Debug\net6.0\DateArithmetic.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateArithmetic\bin\Debug\net6.0\DateArithmetic.pdb
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateArithmetic\obj\Debug\net6.0\DateArithmetic.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateArithmetic\obj\Debug\net6.0\DateArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateArithmetic\obj\Debug\net6.0\DateArithmetic.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateArithmetic\obj\Debug\net6.0\DateArithmetic.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateArithmetic\obj\Debug\net6.0\DateArithmetic.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateArithmetic\obj\Debug\net6.0\DateArithmetic.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateArithmetic\obj\Debug\net6.0\refint\DateArithmetic.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateArithmetic\obj\Debug\net6.0\DateArithmetic.pdb
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateArithmetic\obj\Debug\net6.0\DateArithmetic.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateArithmetic\obj\Debug\net6.0\ref\DateArithmetic.dll

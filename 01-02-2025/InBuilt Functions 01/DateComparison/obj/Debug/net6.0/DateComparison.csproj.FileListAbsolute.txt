@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateComparison\obj\Debug\net6.0\DateComparison.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateComparison\obj\Debug\net6.0\DateComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateComparison\obj\Debug\net6.0\DateComparison.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateComparison\obj\Debug\net6.0\DateComparison.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateComparison\obj\Debug\net6.0\DateComparison.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateComparison\bin\Debug\net6.0\DateComparison.exe
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateComparison\bin\Debug\net6.0\DateComparison.deps.json
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateComparison\bin\Debug\net6.0\DateComparison.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateComparison\bin\Debug\net6.0\DateComparison.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateComparison\bin\Debug\net6.0\DateComparison.pdb
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateComparison\obj\Debug\net6.0\DateComparison.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateComparison\obj\Debug\net6.0\refint\DateComparison.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateComparison\obj\Debug\net6.0\DateComparison.pdb
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateComparison\obj\Debug\net6.0\DateComparison.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateComparison\obj\Debug\net6.0\ref\DateComparison.dll

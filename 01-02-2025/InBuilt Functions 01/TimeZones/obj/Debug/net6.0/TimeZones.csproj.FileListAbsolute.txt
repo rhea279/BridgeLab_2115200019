@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\TimeZones\bin\Debug\net6.0\TimeZones.exe
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\TimeZones\bin\Debug\net6.0\TimeZones.deps.json
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\TimeZones\bin\Debug\net6.0\TimeZones.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\TimeZones\bin\Debug\net6.0\TimeZones.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\TimeZones\bin\Debug\net6.0\TimeZones.pdb
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\TimeZones\obj\Debug\net6.0\TimeZones.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\TimeZones\obj\Debug\net6.0\TimeZones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\TimeZones\obj\Debug\net6.0\TimeZones.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\TimeZones\obj\Debug\net6.0\TimeZones.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\TimeZones\obj\Debug\net6.0\TimeZones.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\TimeZones\obj\Debug\net6.0\TimeZones.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\TimeZones\obj\Debug\net6.0\refint\TimeZones.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\TimeZones\obj\Debug\net6.0\TimeZones.pdb
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\TimeZones\obj\Debug\net6.0\TimeZones.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\TimeZones\obj\Debug\net6.0\ref\TimeZones.dll

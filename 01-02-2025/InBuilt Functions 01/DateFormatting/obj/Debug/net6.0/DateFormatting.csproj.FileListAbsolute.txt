@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateFormatting\bin\Debug\net6.0\DateFormatting.exe
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateFormatting\bin\Debug\net6.0\DateFormatting.deps.json
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateFormatting\bin\Debug\net6.0\DateFormatting.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateFormatting\bin\Debug\net6.0\DateFormatting.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateFormatting\bin\Debug\net6.0\DateFormatting.pdb
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateFormatting\obj\Debug\net6.0\DateFormatting.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateFormatting\obj\Debug\net6.0\DateFormatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateFormatting\obj\Debug\net6.0\DateFormatting.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateFormatting\obj\Debug\net6.0\DateFormatting.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateFormatting\obj\Debug\net6.0\DateFormatting.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateFormatting\obj\Debug\net6.0\DateFormatting.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateFormatting\obj\Debug\net6.0\refint\DateFormatting.dll
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateFormatting\obj\Debug\net6.0\DateFormatting.pdb
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateFormatting\obj\Debug\net6.0\DateFormatting.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\29-01-2025\InBuilt Functions 01\DateFormatting\obj\Debug\net6.0\ref\DateFormatting.dll

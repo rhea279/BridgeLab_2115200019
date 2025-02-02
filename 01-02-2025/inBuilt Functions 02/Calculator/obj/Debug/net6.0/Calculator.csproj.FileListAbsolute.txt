@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Calculator\bin\Debug\net6.0\Calculator.exe
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Calculator\bin\Debug\net6.0\Calculator.dll
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Calculator\obj\Debug\net6.0\Calculator.dll
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Calculator\obj\Debug\net6.0\ref\Calculator.dll

@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Prime\bin\Debug\net6.0\Prime.exe
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Prime\bin\Debug\net6.0\Prime.deps.json
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Prime\bin\Debug\net6.0\Prime.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Prime\bin\Debug\net6.0\Prime.dll
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Prime\bin\Debug\net6.0\Prime.pdb
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Prime\obj\Debug\net6.0\Prime.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Prime\obj\Debug\net6.0\Prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Prime\obj\Debug\net6.0\Prime.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Prime\obj\Debug\net6.0\Prime.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Prime\obj\Debug\net6.0\Prime.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Prime\obj\Debug\net6.0\Prime.dll
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Prime\obj\Debug\net6.0\refint\Prime.dll
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Prime\obj\Debug\net6.0\Prime.pdb
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Prime\obj\Debug\net6.0\Prime.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Prime\obj\Debug\net6.0\ref\Prime.dll

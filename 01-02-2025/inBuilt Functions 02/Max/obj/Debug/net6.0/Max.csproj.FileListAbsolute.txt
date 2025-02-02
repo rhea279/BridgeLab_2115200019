@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Max\obj\Debug\net6.0\Max.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Max\obj\Debug\net6.0\Max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Max\obj\Debug\net6.0\Max.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Max\obj\Debug\net6.0\Max.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Max\obj\Debug\net6.0\Max.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Max\bin\Debug\net6.0\Max.exe
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Max\bin\Debug\net6.0\Max.deps.json
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Max\bin\Debug\net6.0\Max.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Max\bin\Debug\net6.0\Max.dll
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Max\bin\Debug\net6.0\Max.pdb
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Max\obj\Debug\net6.0\Max.dll
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Max\obj\Debug\net6.0\refint\Max.dll
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Max\obj\Debug\net6.0\Max.pdb
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Max\obj\Debug\net6.0\Max.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Max\obj\Debug\net6.0\ref\Max.dll

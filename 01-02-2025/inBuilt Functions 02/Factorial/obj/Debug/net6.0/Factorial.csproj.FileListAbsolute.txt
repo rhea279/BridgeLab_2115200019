@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Factorial\bin\Debug\net6.0\Factorial.exe
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Factorial\bin\Debug\net6.0\Factorial.deps.json
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Factorial\bin\Debug\net6.0\Factorial.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Factorial\bin\Debug\net6.0\Factorial.dll
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Factorial\bin\Debug\net6.0\Factorial.pdb
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Factorial\obj\Debug\net6.0\Factorial.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Factorial\obj\Debug\net6.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Factorial\obj\Debug\net6.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Factorial\obj\Debug\net6.0\Factorial.dll
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Factorial\obj\Debug\net6.0\refint\Factorial.dll
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Factorial\obj\Debug\net6.0\Factorial.pdb
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Factorial\obj\Debug\net6.0\Factorial.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\01-02-2025\inBuilt Functions 02\Factorial\obj\Debug\net6.0\ref\Factorial.dll
