@@ -1,11 +1,12 @@
-### Assignments List (in C#)
+C# Assignments List
+🎯 Overview
 
-## Practice Assignments
+This repository contains a collection of C# assignments 
 
-## Programming Elements
-
-## Control Flow
-
-## Arrays
-
-## Methods
+📚 Assignments List
+1. Practice Assignments
+2. Programming Elements
+3. Control Flow
+4. Arrays
+5. Methods
+6. Keywords: this, sealed, static, and is Operator
